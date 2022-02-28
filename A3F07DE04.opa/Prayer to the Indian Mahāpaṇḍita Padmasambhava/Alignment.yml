@@ -1,0 +1,19 @@
+segment_sources:
+  PE055BA01:
+    type: origin_type
+    relation: translation
+    language: en
+  P4DADD3C3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a34d465dff1a40aaa195073e9eaedc09:
+    PE055BA01: b5a02814b0f64ec48a379eee5e9ff621
+    P4DADD3C3: 63c5f43c8cad4053b6e721a7ac0dfb3c
+  30d59c79fd95448fb2f166f2bbcfe253:
+    PE055BA01: ae38de6c13474a3fb931f60d449f0030
+    P4DADD3C3: ad5f5a78dbb04ce5bf1780d56512ecec
+  bcf0627d13c14dffbae9557a50c0562c:
+    PE055BA01: 81595066abe648efb25c4f0dbf69577e
+    P4DADD3C3: 375fee8be38440eca140fb24cd52b94e
